@@ -25,6 +25,6 @@ My Own Blog-Post Site
 <p align="center">
 <a href="https://twitter.com/Abhishe59445250" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Abhishe59445250" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/abhishek-sharma-b53300154" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="abhishek-sharma-b53300154" height="30" width="30" /></a>
-<a href="https://fb.com/arya.soni.1422409" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="arya.soni.1422409" height="30" width="30" /></a>
-<a href="https://instagram.com/arya_soni98" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="arya_soni98" height="30" width="30" /></a>
+<a href="https://www.facebook.com/people/Abhishek-Sharma/100004050136134" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="arya.soni.1422409" height="30" width="30" /></a>
+<a href="https://instagram.com/abhi_0504_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="arya_soni98" height="30" width="30" /></a>
 </p>
