@@ -3,19 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi0504" alt="abhi0504" /> </p>
 
-- 🔭 I’m currently working on [Open Source Code](https://github.com/OpenSouceCode)
+- 🔭 I’m currently working on Open Source Technologie
 
-- 🌱 I’m currently learning **IOS Development, Machine Learning, AI, AR**
+- 🌱 I’m currently learning **Cross-Platform Mobile Application Libraries**
 
-- 🤝 I’m looking for help with [The-Technocrats-NSUT](https://github.com/The-Technocrats-NSUT)
+- 👨‍💻 All of my projects are available at [abhi0504.github.io](abhi0504.github.io)
 
-- 👨‍💻 All of my projects are available at [aryasoni98.github.io](aryasoni98.github.io)
+- 📝 I regulary write articles on 
 
-- 📝 I regulary write articles on [https://medium.com/@aryasoni98](https://medium.com/@aryasoni98)
+- 💬 Ask me about **Node.js , MonogoDB, Express.js, Git & Github, React , React Native, Javascript, ES6, JAVA**
 
-- 💬 Ask me about **Node.js , MonogoDB, Express.js, Git & Github, Python, Javascript, ES6, ES7, OpenCV**
-
-- 📫 How to reach me **aryasoni98@gmail.com**
+- 📫 How to reach me **sharmaash876@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
