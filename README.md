@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Arya Soni</h1>
-<h3 align="center">Co-Founder @OSC | IOT Leader at The Technocrats | Backend Developer | Open Source Contribution | SIH 2020 Winner 1st ( Inter College )</h3>
+<h1 align="center">Hi 👋, I'm Abhishek Sharma</h1>
+<h3 align="center">React & React Native | NSUT | Full-Stack Web-Developer | Open Source Contribution | competitive programming with JAVA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryasoni98" alt="aryasoni98" /> </p>
 
