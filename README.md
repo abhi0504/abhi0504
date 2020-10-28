@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi0504" alt="abhi0504" /> </p>
 
-- 🔭 I’m currently working on Open Source Technologie
+- 🔭 I’m currently working on Open Source Technologies
 
 - 🌱 I’m currently learning **Cross-Platform Mobile Application Libraries**
 
