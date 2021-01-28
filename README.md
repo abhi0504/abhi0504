@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Abhishek Sharma</h1>
-<h2 align="center">https://portfolio-578e1.web.app/</h2>
+<h2 align="center"><a href="https://portfolio-578e1.web.app/" target="_blank">My Portfolio</a></h2>
 <h3 align="center">React & React Native | NSUT | Full-Stack Web-Developer | Open Source Contribution | competitive programming with JAVA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi0504" alt="abhi0504" /> </p>
