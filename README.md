@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at my github accout
 
-- 💬 Ask me about **Node.js , MonogoDB, Express.js, Git & Github, React , React Native, Javascript, ES6, JAVA**
+- 💬 Ask me about **Node.js , MonogoDB, Express.js, Git & Github, React , React Native, Javascript, ES6, JAVA , SQL**
 
 - 📫 How to reach me **sharmaash876@gmail.com**
 
